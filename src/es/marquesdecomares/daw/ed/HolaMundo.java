@@ -9,6 +9,7 @@ public class HolaMundo {
 		System.out.println("Primera subida MV");
 		System.out.println("Segunda subida MV");
 		System.out.println("Primer cambio en rama de desarrollo 2");
+		System.out.println("Segundo cambio en rama de desarrollo 2");
 	}
 
 }
